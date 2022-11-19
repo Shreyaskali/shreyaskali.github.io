@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mathdigilab
-description: A digital space for math stuff
+title: ReLib
+description: My Research Library
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://mathdigilab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://shreyaskali.github.io/relib" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
 , "docs/tests/", "docs/configuration.md", "docs/customization.md", "docs/index-test.md", "docs/navigation-structure.md", "docs/utilities/", "docs/ui-components/", "docs/search.md", "head_custom.html"
@@ -64,7 +64,7 @@ heading_anchors: true
 # Aux links for the upper right navigation
 aux_links:
   "Contribute":
-    - "https://mathdigilab.github.io/docs/contribute"
+    - "https://relib.github.io/docs/contribute"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
