@@ -6,9 +6,10 @@ nav_order: 4
 permalink: docs/dsml
 ---
 
-# Resources
+# Data Science & Machine Learning
 {: .no_toc }
 
 Data Science & Machine Learning.
 {: .fs-5 .fw-300 }
 
+#Datascience
