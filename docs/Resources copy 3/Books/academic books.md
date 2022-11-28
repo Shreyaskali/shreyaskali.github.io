@@ -4,8 +4,8 @@ title: Academic books
 has_children: false
 nav_order: 1
 parent: Books
-grand_parent: Resources
-permalink: docs/resources/books/academic-books
+grand_parent: dmsl
+permalink: docs/dsml/books/academic-books
 ---
 
 # Academic books

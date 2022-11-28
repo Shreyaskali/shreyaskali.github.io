@@ -4,7 +4,7 @@ title: Recreational books
 has_children: false
 nav_order: 2
 parent: Books
-grand_parent: cs
+grand_parent: Computer Science
 permalink: docs/cs/books/recreational-books
 ---
 

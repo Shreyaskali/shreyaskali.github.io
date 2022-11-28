@@ -4,7 +4,7 @@ title: Academic books
 has_children: false
 nav_order: 1
 parent: Books
-grand_parent: cs
+grand_parent: Computer Science
 permalink: docs/cs/books/academic-books
 ---
 

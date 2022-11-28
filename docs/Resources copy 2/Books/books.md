@@ -3,7 +3,7 @@ layout: default
 title: Books
 has_children: true
 nav_order: 1
-parent: cs
+parent: Computer Science
 permalink: docs/cs/books
 ---
 
