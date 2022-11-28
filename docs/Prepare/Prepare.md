@@ -1,3 +1,11 @@
+---
+layout: default
+title: Prepare
+nav_order: 2
+has_children: true
+permalink: /prepare
+---
+
 ## High school Level
 1. Mathematics
 	- Olympiads
