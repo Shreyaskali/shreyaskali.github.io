@@ -6,7 +6,7 @@ nav_order: 2
 permalink: docs/Mathematics
 ---
 
-# Resources
+# Mathematics
 {: .no_toc }
 
 Mathematics.
