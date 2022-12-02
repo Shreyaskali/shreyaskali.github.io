@@ -20,3 +20,4 @@ My subjects of interest include Mathematics, Algorithms, Statistics, Data Scienc
 
 <br>
 Contact: shreyaskali@gmail.com <br> Copyright &copy; 2022-2023 ReLib.
+{: .bg-grey-lt-100 .p-6}

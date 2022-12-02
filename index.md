@@ -19,9 +19,11 @@ permalink: /
 
 ---
 
-<p align="center">Mathematics | Computer Science | Data Science | Statistics & Machine Learning | Physics & Quantum Computing</p>
+<h4 align="center">Mathematics | Computer Science | Data Science | Statistics & Machine Learning | Physics & Quantum Computing</h4>
+{: .bg-grey-lt-100 .p-6}
+---
 
-ReLib aims to build a semi-open sourced website that caters the need of aspirants, students, researchers and recreationals in the field of Mathematics, Computer Science, Data Science, Statistics, Machine Learning, Physics & Quantum Computing.
+ReLib aims to build a semi-open sourced website that caters the need of aspirants, students, researchers and recreationals in the field of *Mathematics*, *Computer Science*, *Data Science*, *Statistics*, *Machine Learning*, *Physics & Quantum Computing*.
 
 This project consists of a well structured documentation of my interests satisfying the purpose of organising, and building a guided learning base for students & learners.
 
@@ -78,4 +80,4 @@ Welcome to all contributors of ReLib. You can mail me you favourite problems / b
 ## Contributors
 
 - **Shreyas Kali**
-{: .bg-grey-lt-000 .p-6 }
+{: .bg-grey-lt-000 .p-6}
