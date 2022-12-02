@@ -17,3 +17,6 @@ I am a sophomore at National Institute of Technology, Tiruchirappalli majoring i
 My subjects of interest include Mathematics, Algorithms, Statistics, Data Science, Machine learning & Finance. I like to play *Chess* and *Table Tennis*.
 
 - Currently I am discovering Finance, Quantum Computing and Randomized Algorithms.
+
+<br>
+Contact: shreyaskali@gmail.com <br> Copyright &copy; 2022-2023 ReLib.
