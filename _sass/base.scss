@@ -71,7 +71,8 @@ a:not([class]) {
   background-size: 1px 1px;
 
   &:hover {
-    background-color: #1f2531;
+    color: #1f2531;
+    text-decoration: line-through;
     background-image: linear-gradient(
       rgba($link-color, 0.45) 0%,
       rgba($link-color, 0.45) 100%
