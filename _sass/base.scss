@@ -68,7 +68,7 @@ a:not([class]) {
   background-image: linear-gradient($border-color 0%, $border-color 100%);
   background-repeat: repeat-x;
   background-position: 0 100%;
-  background-size: contain;
+  background-size: 1px 1px;
 
   &:hover {
     background-color: #1f2531;
