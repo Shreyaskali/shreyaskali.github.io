@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Mathdigilab is the place for learning & exploring mathematics for entrance exams, resources and recreational mathematics. This is the one-stop place for math enthusiasts."
+description: "My Research Library"
 permalink: /
 ---
  <!---<p align="center">
@@ -34,50 +34,58 @@ This website is made with honest efforts, my knowledge and experience, feel free
 
 ### What you get on <b>ReLib</b>?
 
-- Math resources (Academic & recreational Books, Magazines, links to useful websites and youtube channels).
-- Guides to Math competitions & entrance exams along with recommended course structures, resources, collaborative learning sessions & mock tests.
-- Weekly puzzles & problems to discover the joy of mathematics. (coming soon...)
+- Learning resources for topics in Mathematics, Computer Science, Data Science, Statistics & Machine Learning, Physics & Quantum computing.
+- Resource Library (Academic & recreational Books, Magazines, articles, journals).
+- Guides, Preparation strategies, roadmaps to various competitions & entrance exams along with notes, past papers & mock tests.
+- Puzzles & project ideas to discover and strengthen your skills.
+- Recent research breakthroughs, and collection of open research papers.
+
 {: .bg-grey-lt-000 .p-6 }
 
 ---
 
-#### Latest on <b>ReLib</b>
+#### How to use <b>ReLib</b>
+
 {: .fs-4 }
 
-- IOQM page added [here](https://mathdigilab.github.io/docs/math-exams/ioqm). Mock tests and preparation strategies coming soon...
-- CMI UG 2022 paper (official) available [here](https://mathdigilab.github.io/docs/math-exams/cmi).
-- ISI 2022 UGA/UGB Paper updated! Checkout [here](https://mathdigilab.github.io/docs/math-exams/isi). 
-- Added the latest issues of CURX Mathematicorum and Mathematical reflections. Checkout the [Magazines](https://mathdigilab.github.io/docs/resources/magazines) page.
-{: .bg-grey-lt-000 .p-6 }
+Relib is inspired by the Zettlekasten method of note taking where each page is interlinked with a set of pages building a network of interconnected ideas. But **ReLib** uses a slightly modified system where initially the main pages are divided into the different domains (Mathematics, Computer Science, Data Science, Statistics & Machine Learning, Physics & Quantum computing) under which you will find parent page for Learning, Preparation, Projects & Research. These pages have heirarchical division and all the hanging pages (pages having no child page) will be interconnected through backlinks, tags, etc.
+
+(*put nice image here to explain the above paragraph*)
+
+All the resources metioned in the pages will be linked and stored under Resource Library. If you wish you can browse the resource library through this page.
+
+A nice search feature is always helpful (available on top) if you feel lost or unable to find someting...
 
 ---
 
-#### Annoucements
-{: .fs-4 }
+## Contribute
 
-- 
+Welcome to all contributors of ReLib. You can mail me you favourite problems / books / resources and give suggestions or errors in any part of this website.
+
+[Contribute to ReLib](https://shreyaskali.github.io/docs/contribute) & top contributors will be showcased on this website.
 
 ---
 
 ## Subcription
 
+**ReLib** is completely free for contributors as well as for most of the things that this website offer.
+
+Some of the premium features we plan to provide are:
+
+- Personalized Notes for learning (coming soon...)
+- Roadmaps and personalized guides from mentors.
+- Mock tests for competitive entrance exams.
+
 ### Payment Option
 
-Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for contributing!
+Payment must be sent to the UPI address given below. Please send me an email with the transaction number or a screenshot so that I can link your payment to your email ID. Thanks for subscribing!
 
 **UPI Address: shreyaskali@okaxis**
 {: .bg-grey-lt-000 .p-6 }
 
 ---
 
-## Contribute
-Welcome to all contributors of ReLib. You can mail me you favourite problems / books / resources and give suggestions or errors in any part of this website.
-
-[Contribute to ReLib](https://shreyaskali.github.io/docs/contribute) & top contributors will be showcased on this website. Some contributions can qualify for free subscription.
-
----
-
 ## Contributors
 
-- **Shreyas Kali**
+- [**Shreyas Kali**](https://github.com/Shreyaskali)
 {: .bg-grey-lt-000 .p-6}
