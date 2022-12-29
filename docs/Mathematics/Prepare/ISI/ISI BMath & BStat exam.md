@@ -2,7 +2,8 @@
 layout: default
 title: ISI BStat & BMath exam
 has_children: false
-parent: Math exams
+parent: Prepare
+grandparent: Mathematics
 permalink: /docs/math/prepare/isi-ug
 ---
 

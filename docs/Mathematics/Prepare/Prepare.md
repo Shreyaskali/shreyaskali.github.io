@@ -15,10 +15,10 @@ There are various math exams conducted at various levels. Find the strategies, h
 
 ## High school Level
 - Olympiads
-- [ISI B.Sat / B.Math entrance exam](https://shreyaskali.github.io/math/prepare/is-ug)
-- [CMI UG entrance exam](https://shreyaskali.github.io/math/prepare/cmi-ug)
+- [ISI B.Sat / B.Math entrance exam](docs/math/prepare/isi-ug)
+- [CMI UG entrance exam](https://shreyaskali.github.io/docs/math/prepare/cmi-ug)
 
 ## UG Level
-- GATE Mathematics
-- [ISI Masters](https://shreyaskali.github.io/math/prepare/isi-pg)
-- [CMI Masters](https://shreyaskali.github.io/math/prepare/cmi-pg)
+- [GATE Mathematics](docs/math/prepare/GATE/)
+- [ISI Masters](https://shreyaskali.github.io/docs/math/prepare/isi-pg)
+- [CMI Masters](https://shreyaskali.github.io/docs/math/prepare/cmi-pg)

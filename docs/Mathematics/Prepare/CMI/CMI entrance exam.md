@@ -3,7 +3,8 @@ layout: default
 title: CMI UG entrance exam
 has_children: false
 has_toc: false
-parent: Math exams
+parent: Prepare
+grandparent: Mathematics
 permalink: docs/math/prepare/cmi-ug
 ---
 

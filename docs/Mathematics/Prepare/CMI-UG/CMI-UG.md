@@ -4,8 +4,9 @@ title: CMI UG
 has_children: false
 has_toc: false
 nav_order: 2
-parent: Mathematics/Prepare
-permalink: docs/Mathematics/prepare/cmi-ug
+parent: Prepare
+grandparent: Mathematics
+permalink: docs/math/prepare/cmi-ug
 ---
 
 # CMI entrance exam
