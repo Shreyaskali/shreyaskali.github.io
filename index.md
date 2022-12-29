@@ -20,14 +20,14 @@ permalink: /
 ---
 
 <h4 align="center">Mathematics | Computer Science | Data Science | Statistics & Machine Learning | Physics & Quantum Computing</h4>
-{: .bg-grey-lt-100 .p-6}
+
 ---
 
-ReLib aims to build a semi-open sourced website that caters the need of aspirants, students, researchers and recreationals in the field of *Mathematics*, *Computer Science*, *Data Science*, *Statistics*, *Machine Learning*, *Physics & Quantum Computing*.
+ReLib aims to build a semi-open sourced website that caters the need of aspirants, students, researchers and recreationals in the field of [*Mathematics*](https://shreyaskali.github.io/docs/math), [*Computer Science*](https://shreyaskali.github.io/docs/cs), [*Data Science*](https://shreyaskali.github.io/docs/ds), [*Statistics* & *Machine Learning*](https://shreyaskali.github.io/docs/statsML), [*Physics & Quantum Computing*](https://shreyaskali.github.io/docs/quantum).
 
 This project consists of a well structured documentation of my interests satisfying the purpose of organising, and building a guided learning base for students & learners.
 
-This website is made with honest efforts, my knowledge and experience, feel free to [[Contribute]] in any form you wish.
+This website is made with honest efforts, my knowledge and experience, feel free to [Contribute](https://shreyaskali.github.io/docs/contribute) in any form you wish.
 
 
 ---
@@ -39,13 +39,11 @@ This website is made with honest efforts, my knowledge and experience, feel free
 - Guides, Preparation strategies, roadmaps to various competitions & entrance exams along with notes, past papers & mock tests.
 - Puzzles & project ideas to discover and strengthen your skills.
 - Recent research breakthroughs, and collection of open research papers.
-
 {: .bg-grey-lt-000 .p-6 }
 
 ---
 
 #### How to use <b>ReLib</b>
-
 {: .fs-4 }
 
 Relib is inspired by the Zettlekasten method of note taking where each page is interlinked with a set of pages building a network of interconnected ideas. But **ReLib** uses a slightly modified system where initially the main pages are divided into the different domains (Mathematics, Computer Science, Data Science, Statistics & Machine Learning, Physics & Quantum computing) under which you will find parent page for Learning, Preparation, Projects & Research. These pages have heirarchical division and all the hanging pages (pages having no child page) will be interconnected through backlinks, tags, etc.

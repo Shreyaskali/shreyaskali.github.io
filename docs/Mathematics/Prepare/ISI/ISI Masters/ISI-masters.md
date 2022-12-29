@@ -1,8 +1,11 @@
 ---
+layout: default
 title: ISI
-feed: show
-date: 29-10-2022
-permalink: /docs/math/prepare/isi-pg
+has_children: true
+nav_order: 2
+parent: prepare
+grandparent: Mathemtics
+permalink: docs/math/prepare/isi-pg
 ---
 
 ISI (Indian Statistical Institute) offers two programmes at the undergraduate level, B.Math & B.Stat. There are various programmes offered at the graduate level. Refer to this doctument for [[Academic-Programmes-2022.pdf]].

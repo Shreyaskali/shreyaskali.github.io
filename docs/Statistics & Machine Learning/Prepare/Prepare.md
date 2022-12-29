@@ -3,24 +3,14 @@ layout: default
 title: Prepare
 has_children: true
 nav_order: 2
-parent: Mathematics
-permalink: docs/Mathematics/prepare
+parent: Statistics & Machine Learning
+permalink: docs/statsML/prepare
 ---
 
 # Prepare
 {: .no_toc }
 
-There are varoious mathematics competitions and entrance exams at various levels that need a strong mathematical aptitude. 
+There are varoious Statistics & Machine Learning competitions and entrance exams at various levels that need a strong mathematical aptitude. 
 {: .fs-5 .fw-300 }
 
-## High school Level
-- [Olympiads]()
-- [ISI B.Sat / B.Math entrance exam]()
-- [CMI UG]()
 
-## UG Level
-- [GATE Mathematics]()
-- [ISI Master Programmes]()
-- [CMI Master Programmes]()
-
-## PG Level
